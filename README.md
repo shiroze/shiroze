@@ -2,7 +2,7 @@
 - 👀 I’m interested in Program
 - 🌱 I’m currently learning React Native & Laravel
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me ...
+- 📫 How to reach me Nothing, just see my profile
 
 <!---
 shiroze/shiroze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
